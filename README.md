@@ -109,8 +109,3 @@ taiga-os/
 - **SQLite3** — banco de dados local, nativo do Python
 - **Python 3.11+** — sem dependências externas além do CustomTkinter
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
