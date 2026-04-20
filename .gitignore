@@ -1,0 +1,44 @@
+# ======================
+# TAIGA OS — .gitignore
+# ======================
+
+# Banco de dados local (gerado automaticamente na primeira execução)
+*.db
+*.db-shm
+*.db-wal
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+.env.local

@@ -1,0 +1,4 @@
+# TAIGA OS — dependências
+# Instale com: pip install -r requirements.txt
+
+customtkinter>=5.2.0
